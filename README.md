@@ -1,5 +1,7 @@
 # thoughts_about_container
 
+* lorem ipsum
+  * https://cloud.google.com/containers
 * containers are standardized
   * https://opencontainers.org/
 * release notes on the standard
@@ -15,5 +17,7 @@
   * https://containerd.io/
 * What does it mean that docker is deprecated in Kubernetes
   * https://www.inovex.de/blog/containers-docker-containerd-nabla-kata-firecracker/
+* What do I have to consider so that my application is executable in Kubernetes?
+  * https://12factor.net/
 * Benefits of Kubernetes
-  * https://www.linkbynet.com/what-are-the-real-benefits-of-kubernetes
+  * https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
